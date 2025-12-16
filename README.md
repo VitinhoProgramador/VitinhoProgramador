@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vitor Manoel
+#  Vitor Manoel
 
 **`Desenvolvedor Backend`**
 
