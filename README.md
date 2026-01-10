@@ -92,14 +92,14 @@ Me chamo Vitor Manoel, tenho 23 anos e sou natural do Piaui. Atualmente, estou c
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitinhoProgamador&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitinhoProgramador&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitinhoProgamador&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitinhoProgramador&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" 
   />
 
 </p>
