@@ -4,14 +4,14 @@
 
 const PORTFOLIO = {
   nome: "Vitor Manoel",
-  cargo: "Desenvolvedor Backend · C#, .NET & Java",
+  cargo: "Desenvolvedor Full Stack",
   local: "Teresina, PI",
   resumo:
-    "Estudante de Ciência da Computação focado em construir APIs REST, organizar regras de negócio e integrar sistemas com bancos de dados relacionais.",
+    "Desenvolvo aplicações web de ponta a ponta, das APIs REST em C#, .NET e Java às interfaces em Angular e React, com foco em código organizado e bem integrado ao banco de dados.",
   sobre: [
     "Sou estudante de Ciência da Computação e estagiário em Desenvolvimento Full Stack na Medsafe Brasil, onde trabalho com Spring Boot e Angular, dashboards analíticos e suporte a sistemas internos.",
-    "Minha base é o backend com C#, .NET e Java, e também tenho experiência prática com suporte técnico, análise de logs, resolução de problemas e automação de processos com IA e N8N.",
-    "Busco oportunidades como Desenvolvedor Backend Júnior para continuar evoluindo em arquitetura de software e cloud computing.",
+    "No back-end, trabalho com C#, ASP.NET Core, Java e Spring Boot. No front-end, com Angular, React, TypeScript e Tailwind. Também tenho experiência prática com suporte técnico, análise de logs, resolução de problemas e automação de processos com IA e N8N.",
+    "Busco oportunidades como Desenvolvedor Full Stack Júnior para continuar evoluindo em arquitetura de software e cloud computing.",
   ],
   disponivel: true, // mostra o selo "Disponível para novos projetos"
   email: "vitormanoel.executivo@gmail.com",
