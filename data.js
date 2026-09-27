@@ -3,7 +3,7 @@
 // ============================================================
 
 const PORTFOLIO = {
-  nome: "Vitor Manoel",
+  nome: "Vitor Costa",
   cargo: "Desenvolvedor Full Stack",
   local: "Teresina, PI",
   resumo:
